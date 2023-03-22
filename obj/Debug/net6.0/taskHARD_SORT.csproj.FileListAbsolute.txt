@@ -1,0 +1,15 @@
+C:\Гикбрейнс\3. Си#\Seminars\20230318\HomeTasks\taskHARD_SORT\obj\Debug\net6.0\taskHARD_SORT.csproj.AssemblyReference.cache
+C:\Гикбрейнс\3. Си#\Seminars\20230318\HomeTasks\taskHARD_SORT\obj\Debug\net6.0\taskHARD_SORT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Гикбрейнс\3. Си#\Seminars\20230318\HomeTasks\taskHARD_SORT\obj\Debug\net6.0\taskHARD_SORT.AssemblyInfoInputs.cache
+C:\Гикбрейнс\3. Си#\Seminars\20230318\HomeTasks\taskHARD_SORT\obj\Debug\net6.0\taskHARD_SORT.AssemblyInfo.cs
+C:\Гикбрейнс\3. Си#\Seminars\20230318\HomeTasks\taskHARD_SORT\obj\Debug\net6.0\taskHARD_SORT.csproj.CoreCompileInputs.cache
+C:\Гикбрейнс\3. Си#\Seminars\20230318\HomeTasks\taskHARD_SORT\bin\Debug\net6.0\taskHARD_SORT.exe
+C:\Гикбрейнс\3. Си#\Seminars\20230318\HomeTasks\taskHARD_SORT\bin\Debug\net6.0\taskHARD_SORT.deps.json
+C:\Гикбрейнс\3. Си#\Seminars\20230318\HomeTasks\taskHARD_SORT\bin\Debug\net6.0\taskHARD_SORT.runtimeconfig.json
+C:\Гикбрейнс\3. Си#\Seminars\20230318\HomeTasks\taskHARD_SORT\bin\Debug\net6.0\taskHARD_SORT.dll
+C:\Гикбрейнс\3. Си#\Seminars\20230318\HomeTasks\taskHARD_SORT\bin\Debug\net6.0\taskHARD_SORT.pdb
+C:\Гикбрейнс\3. Си#\Seminars\20230318\HomeTasks\taskHARD_SORT\obj\Debug\net6.0\taskHARD_SORT.dll
+C:\Гикбрейнс\3. Си#\Seminars\20230318\HomeTasks\taskHARD_SORT\obj\Debug\net6.0\refint\taskHARD_SORT.dll
+C:\Гикбрейнс\3. Си#\Seminars\20230318\HomeTasks\taskHARD_SORT\obj\Debug\net6.0\taskHARD_SORT.pdb
+C:\Гикбрейнс\3. Си#\Seminars\20230318\HomeTasks\taskHARD_SORT\obj\Debug\net6.0\taskHARD_SORT.genruntimeconfig.cache
+C:\Гикбрейнс\3. Си#\Seminars\20230318\HomeTasks\taskHARD_SORT\obj\Debug\net6.0\ref\taskHARD_SORT.dll
